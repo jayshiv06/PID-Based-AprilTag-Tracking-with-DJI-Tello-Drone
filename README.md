@@ -20,14 +20,6 @@ based on the **position and size of the tag** in the video feed.
 
 ---
 
-## 📸 Sample Output
-
-> The drone takes off and autonomously adjusts itself to keep the AprilTag centered and at a fixed distance.
-
-(Insert image or GIF here if available)
-
----
-
 ## 📂 Project Structure
 
 ```plaintext
@@ -132,3 +124,8 @@ See [`LICENSE`](LICENSE) file for more details.
 Inspired by the vision and control systems of autonomous robotics.
 
 ---
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/jayharishshivakumar/](https://www.linkedin.com/in/jayharish-shivakumar-18591b275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2AZff5ZERdSVVvhq9IRjHA%3D%3D))
+
