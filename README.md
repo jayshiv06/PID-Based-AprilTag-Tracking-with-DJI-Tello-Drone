@@ -127,5 +127,5 @@ Inspired by the vision and control systems of autonomous robotics.
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/jayharish-shivakumar-18591b275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([linkedin.com/in/jayharish-shivakumar-18591b275](https://lk.linkedin.com/in/jayharish-shivakumar-18591b275))
 
